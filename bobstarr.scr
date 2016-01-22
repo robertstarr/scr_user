@@ -189,6 +189,7 @@ MENU
      '---'\
      'Tools {\
          Snap to Grid: run snap2grid.ulp;|\
+         Duplicate Module: run mod-duplicate.ulp;|\
          Change Via Sizes: run change-via-sizes.ulp;|\
          Add Teardrops: run teardrops.ulp;|\
          Import DXF file: run dxfimport.ulp;|\
