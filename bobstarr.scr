@@ -83,6 +83,7 @@ BRD:
 ASSIGN C+F6 run cmd-grid-step;
 ASSIGN S+F6 run cmd-grid-step "up";
 ASSIGN F7   run hide-airwires.ulp;
+ASSIGN F8   script run-assembly-files.scr;
 
 ASSIGN C+E ERRORS;
 ASSIGN CS+D 'DRC;';  # Executes DRC without opening DRC dialog. For dialog sk
